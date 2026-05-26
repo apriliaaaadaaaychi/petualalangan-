@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Monyet Pemakan Pisang",
+  "description": "Game petualangan monyet 2D retro-platformer di mana pemain memandu Miko sang monyet melompat, menghindari predator liar, mengoleksi pisang, membeli peningkatan kekuatan, dan mengalahkan Bos raksasa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
